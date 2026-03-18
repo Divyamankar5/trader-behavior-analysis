@@ -7,6 +7,7 @@ Analyze how Fear/Greed sentiment affects trader performance and behavior.
 Dataset
 
 Bitcoin Market Sentiment (Fear/Greed)
+
 Hyperliquid Trader Data
 
 Methodology
